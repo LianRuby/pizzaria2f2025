@@ -36,9 +36,11 @@ function App() {
       <Formulario sombra="Digite seu nome..." />
       <Formulario sombra="Digite seu e-mail..."/>
       <Formulario sombra="(99)90000-0000"/>
+      <Formulario sombra="Digite seu CEP" />
       <Formulario />
       <Formulario />
       <Formulario />
+
 
     </div>
   )
